@@ -1,0 +1,31 @@
+﻿
+
+    .container {
+        width: 500px;
+        height: 100px;
+        outline: red solid 1px;
+       position: relative;
+       overflow: hidden;
+
+    }
+
+    .reel {
+        position: absolute;
+    }
+
+    .step {
+          width: 500px;
+        height: 100px;
+        float: left;
+    }
+
+    .a { background-color: red; }
+    .b { background-color: yellow; }
+    .c { background-color: blue; }
+    .d { background-color: green; }
+
+    .back, .next {
+        height: 50px;
+        width: 50px;
+        background-color:aquamarine;
+    }

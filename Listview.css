@@ -1,0 +1,15 @@
+﻿
+
+    .listview {
+        position: relative;     
+        background-color: yellow;
+    }
+    .listview-item {
+        position: absolute;      
+    }
+
+    .a { background-color: red; }
+    .b { background-color: yellow; }
+    .c { background-color: blue; }
+    .d { background-color: green; }
+
