@@ -1,0 +1,10 @@
+﻿#dropspot {
+
+    height: 500px;
+    width: 500px;
+    outline: red solid 1px;
+}
+
+#dropspot.over {
+    background-color: blue;
+}
