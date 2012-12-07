@@ -3,6 +3,8 @@
 
 (function () {
     'use strict';
+    var baseUrl = "http://dri1.img.digitalrivercontent.net/DRHM/Storefront/Company/msstore/images/Win8App/";
+
 
     $(document).ready(function() {
         init();

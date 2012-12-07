@@ -1,15 +1,25 @@
 ﻿
 
     .listview {
-        position: relative;     
-        background-color: yellow;
-    }
-    .listview-item {
-        position: absolute;      
     }
 
-    .a { background-color: red; }
-    .b { background-color: yellow; }
-    .c { background-color: blue; }
-    .d { background-color: green; }
+    .listview .groupTitle {
+        outline: yellow solid 1px;
+    }
+    .listview .group {
+        outline: lightgray solid 1px;
+        width: 
+    }
+
+    .listview .itemscontainer {
+                position: relative;
+
+        outline: green solid 1px;
+    }
+    .listview .item {
+        position: absolute;      
+        outline: red solid 1px;
+
+    }
+
 
