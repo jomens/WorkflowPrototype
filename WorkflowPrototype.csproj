@@ -64,6 +64,9 @@
     <Content Include="Listview.css" />
     <Content Include="Listview.js" />
     <Content Include="Listview.html" />
+    <Content Include="LiveTile\livetile.css" />
+    <Content Include="LiveTile\livetile.html" />
+    <Content Include="LiveTile\livetile.js" />
     <Content Include="packages.config" />
     <None Include="Scripts\jquery-1.8.3.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.3.js" />

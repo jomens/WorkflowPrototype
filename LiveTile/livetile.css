@@ -1,0 +1,16 @@
+﻿.container, .red, .blue { height: 200px; width: 200px;overflow: hidden;}
+.red { background-color: red; }
+.blue {background-color: blue; }
+.livetile {
+    position: relative;
+    animation: myfirst 8s ease-in-out 2s infinite; }
+.pause { animation-play-state: paused; }
+@keyframes myfirst
+{
+0%   {top:0px;}
+15%   {top:-200px;}
+50%   {top:-200px;}
+75%   {top:0px;}
+100% {top:0px;}
+}
+
